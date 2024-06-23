@@ -9,18 +9,12 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
 ### The challenge
 
-Users should be able to:
-
-- See hover and focus states for all interactive elements on the page
+To build a responsive socila media links profile.
 
 ### Screenshot
 

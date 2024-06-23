@@ -18,7 +18,7 @@ To build a responsive socila media links profile.
 
 ### Screenshot
 
-![](./main/assets/images/screenshot.JPG)
+![](https://imgur.com/a/9CL3v4c)
 
 ### Links
 

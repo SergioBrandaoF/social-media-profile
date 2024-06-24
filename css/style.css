@@ -85,12 +85,7 @@ img {
     flex-direction: column;
     margin: 0;
     padding: 0;
-    overflow-y: scroll;
 }
-
-    #links::-webkit-scrollbar {
-        display: none;
-    }
 
 button {
     background-color: hsl(0, 0%, 20%);
